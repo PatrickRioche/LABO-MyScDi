@@ -7,7 +7,9 @@
 ** Signalétique
 * ARCHITECTURE TECHNIQUE GENERALE
 ** Schéma global d’architecture
-image::ldap.png[]
+
+image::/Schemas/LDAP.png[]
+
 ** Plateforme technique
 ** Flux
 * BATCHS / INTERFACES
