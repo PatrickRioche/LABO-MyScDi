@@ -7,6 +7,6 @@
 |Dia
 |https://sourceforge.net/projects/dia-installer/
 
-|Autres
+|Recherche
 |https://www.gooogle.com
 |===
