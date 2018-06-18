@@ -1,9 +1,9 @@
-.Table Liens
+.Liens
 |===
 |Application|Liens
 |GitHub
 |https://github.com
 
 |Dia
-|https://dia.com
+|https://sourceforge.net/projects/dia-installer/
 |===
