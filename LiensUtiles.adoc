@@ -1,9 +1,9 @@
 .Table Liens
 |===
 |Application|Liens
-|GitHub, row 1
-|Dia, row 1
+|GitHub
+|https://github.com
 
-|Cell in column 1, row 2
-|Cell in column 2, row 2
+|Dia
+|https://dia.com
 |===
