@@ -1,9 +1,9 @@
 * OBJECTIF DU DOCUMENT
 
 Ce document est un modèle de document d’architecture technique détaillé pour les développements d’applications Web. Il s’adresse :
-. Au chargé de projet.
-. Aux architectes du projet
-.A l’équipe de mise en production.
+- Au chargé de projet.
+- Aux architectes du projet
+- A l’équipe de mise en production.
 
 * HISTORIQUE DU DOCUMENTATION
 * DIFFUSION
