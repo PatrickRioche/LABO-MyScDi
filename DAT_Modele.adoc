@@ -15,11 +15,15 @@
 
 * DIFFUSION
 
-Destinataires Pour validation	Pour information
+|===
+Destinataires|Pour validation|Pour information
+|===
 
 * VALIDATION
 
-Représentants	Valideur	Date
+|===
+Représentants|Valideur|Date
+|===
 
 * PREAMBULE
 ** Lexique
