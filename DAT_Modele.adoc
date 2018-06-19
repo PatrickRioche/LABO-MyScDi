@@ -6,8 +6,17 @@
 - A l’équipe de mise en production.
 
 * HISTORIQUE DU DOCUMENTATION
+
+Version	Date	Rédacteur	Description
+
 * DIFFUSION
+
+Destinataires Pour validation	Pour information
+
 * VALIDATION
+
+Représentants	Valideur	Date
+
 * PREAMBULE
 ** Lexique
 ** Signalétique
