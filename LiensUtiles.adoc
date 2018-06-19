@@ -1,12 +1,7 @@
 
 |===
 |Application|Liens
-|GitHub
-|https://github.com
-
-|Dia
-|https://sourceforge.net/projects/dia-installer/
-
-|Recherche
-|https://www.gooogle.com
+|GitHub|https://github.com
+|Dia|https://sourceforge.net/projects/dia-installer/
+|Recherche|https://www.gooogle.com
 |===
