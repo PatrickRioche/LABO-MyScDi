@@ -44,7 +44,7 @@ image::/Schemas/LDAP.png[]
 *** Description des entrées et des sorties
 *** Description du processus de « logs » des traitements
 *** Description du processus de gestion d’erreur
-* Traitement N
+** Traitement N
 * DESCRIPTION DES DONNEES
 ** Modèle conceptuel (Préciser la Version)
 ** Modèle logique (Préciser la Version)
