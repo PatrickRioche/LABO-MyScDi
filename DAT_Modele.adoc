@@ -16,13 +16,15 @@
 * DIFFUSION
 
 |===
-Destinataires|Pour validation|Pour information
+|Destinataires|Pour validation|Pour information
+|Rioche Patrick|Rioche Patrick|Rioche Patrick
 |===
 
 * VALIDATION
 
 |===
-Représentants|Valideur|Date
+|Représentants|Valideur|Date
+|Rioche Patrick|Rioche Patrick|19/06/2018
 |===
 
 * PREAMBULE
