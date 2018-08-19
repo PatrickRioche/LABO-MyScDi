@@ -132,7 +132,7 @@ klklklm lmlkm lkmlk.
 
 === Schéma global d’architecture de la solution
 
-image::./Schemas/figure1.png[]
+image::./Schemas/Figure1.png[]
 
 sdfsdf dfqfqq sqdqsd sdfsdf, sqdqds, qsdqd +
 klklklm lmlkm lkmlk.
