@@ -52,7 +52,7 @@ klklklm lmlkm lkmlk.
 
 === Schéma global d’architecture
 
-image::./Schemas/ldpa.png[]
+image::./Schemas/LDPA.png[]
 
 sdfsdf dfqfqq sqdqsd sdfsdf, sqdqds, qsdqd +
 klklklm lmlkm lkmlk.
